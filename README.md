@@ -1,6 +1,6 @@
-# jingxuan-cs
 
-##1.客服项目说明
+
+##1.项目说明
 1.本项目是 vue-cli3.0脚手架,配置都是集成的,vuex,axios,scss,elementUi
 2.引用项目文件 用 @/文件名(@脚手架已经配置好了)
 3.另外.env.development文件是运行开发环境时会自动执行,可以区分 调dev环境api
@@ -16,7 +16,7 @@ npm run qa  qa环境
 npm run run build生产环境
 ```
 ##3.拉取代码
-git clone ssh://git@stash.weimob.com:7999/h/jingxuan-cs.git
+git clone 
 
 ##4.分支管理
 master               ---生产环境部署分支
